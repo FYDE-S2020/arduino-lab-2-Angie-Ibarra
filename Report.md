@@ -40,4 +40,4 @@ Team Number: F5
 
 9. Screenshot of your Blynk App:
 
-    ![your image here->](C:\Users\angel\arduino-lab-2-Angie-Ibarra\img)
+    ![your image here->](C:\Users\angel\arduino-lab-2-Angie-Ibarra\img\app-screenshot.PNG)
